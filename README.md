@@ -8,6 +8,7 @@ A full-stack web application that uses artificial intelligence to analyze sympto
 - **Smart Provider Matching**: Connects users with relevant healthcare providers based on AI analysis
 - **Real-time Provider Data**: Integrates with NPI Registry API for up-to-date information
 - **Location-based Search**: Find providers within customizable radius with distance calculations
+- **Interactive Maps** : Google Maps integration to visualize provider locations
 - **In-Memory Caching**: Optimized performance with intelligent caching to reduce latency
 - **Responsive Design**: Mobile-friendly React frontend with modern UI/UX
 - **Production Ready**: Docker containerization, monitoring, and comprehensive error handling
